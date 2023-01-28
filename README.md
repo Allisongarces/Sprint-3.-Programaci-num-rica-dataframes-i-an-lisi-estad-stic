@@ -39,3 +39,8 @@ Retraso de aeronave tardía = en minutos
 
 Nombre de las aerolineas
 ![image](https://user-images.githubusercontent.com/44713262/215293664-996db00d-6dad-49bb-a4cd-d8fee0aeee04.png)
+
+Columnas a elegir:
+Month - Day of Month - Day of Week -DepTime – CRSDepTime – ArrTime -CRSArrTime  - UniqueCarrier – FlightNum – AirTime – ArrDelay – DepDelay -Origin -Dest – Distance – TaxiIn – TaxiOut – Diverted – CarrierDelay – WeatherDelay -NASDelay – SecurityDelay – LateAircraftDelay
+
+He elegido estas columnas porque aportan contenido relevante para el análisis del DataFrame. Dándonos tiempos, fechas y características que pueden ser importantes.
